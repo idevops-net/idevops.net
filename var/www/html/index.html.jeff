@@ -1,0 +1,134 @@
+
+<!doctype html>
+<html data-placeholder-focus="false">
+<head>
+
+        <meta charset="utf-8">
+        <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+
+
+        <title>Harness the Power of Data | esse.io</title>
+
+        <meta name="keywords" content="analytics, bigdata, data, power, cloud, agile, automation, development, open source">
+        <meta name="description" content="">
+        <meta name="twitter:card" content="Harness the Power of Data  @esse.io">
+        <meta name="twitter:site" content="iDevOps">
+        <meta name="twitter:title" content="DevOps">
+        <meta name="twitter:description" content="">
+
+        <meta name="og:title" content="DevOps Community">
+        <meta name="og:description" content="">
+        <meta name="og:site_name" content="iDevOps">
+
+        <meta property="og:image" content='/images/devops.png'>
+
+
+        <script src="/scripts/bugsnag-2.min.js" data-apikey="5521483091d79def55edefe4abaec88a"></script>
+        <script type="text/javascript">
+          Bugsnag.releaseStage = "build";
+          Bugsnag.notifyReleaseStages = ["build"];
+        </script>
+
+
+        <script src="/scripts//701281621.js"></script>
+
+
+
+
+        <meta name="viewport" content="width = device-width, initial-scale = 1.0" />
+
+
+        <link href="/css/idevops.css" media="screen" rel="stylesheet" type="text/css" />
+
+        <script type="text/javascript" src="/scripts/njm7orv.js"></script>
+        <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+      </head>
+      <body class="index ">
+
+
+          <div class="mobile-nav">
+            <div class="m-pikabu-sidebar m-pikabu-left">
+              <nav id="button-nav">
+<!--
+                <ul>
+                  <li><a href="https://cloud.idevops.net/login">Log In</a></li>
+                  <li class="button-outline"><a href="https://cloud.idevops.net/registrations/new">Sign Up</a></li>
+                </ul>
+--!>
+              </nav>
+              <a href="#" class="close-panel icon-close"></a>
+              <nav id="mobile">
+                <ul>
+                  <li><a class="" href="/services/">Services</a></li>
+                  <li><a class="" href="http://ci.idevops.net:33080/">CI</a></li>
+                  <li><a class="" href="/community/">Community</a></li>
+                  <li><a class="" href="/download/">Download</a></li>
+                  <li><a class="" href="http://ds.idevops.net:8090/docs">Documents</a></li>
+                </ul>
+              </nav>
+            </div>
+          </div>
+          <div class="m-pikabu-container">
+
+            <header>
+              <div class="wrapper-full">
+<!--                <a class="logo" href="/"><img src="/images/devops.png" width="195px" height="31px"></a>
+                <a id="hiring" href="/company/careers/">We're Hiring!</a>
+--!>
+                <a class="m-pikabu-nav-toggle icon-navicon" data-role="left">
+                  <span></span>
+                </a>
+                <nav id="button-nav">
+<!--
+                  <ul>
+                    <li><a href="https://cloud.idevops.net/login">Log In</a></li>
+                    <li class="button-outline"><a href="https://cloud.idevops.net/registrations/new">Sign Up</a></li>
+                  </ul>
+                </nav>
+--!>
+                <nav>
+                  <ul>
+                    <li><a class="" href="/services/">Services</a></li>
+                    <li><a class="" href="https://github.com/esse-io">Git</a></li>
+                  </ul>
+                </nav>
+              </div>
+            </header>
+
+
+            <section class="main">
+
+<!--
+              <section class="homepage-header">
+                <div class="wrapper-full">
+                  <h1>Harness the Power of Data @esse.io</h1>
+
+                  <h3>Makes your life easier. <a href="/features/technology/">Learn More</a>.</h3>
+                  <div class="inline-form-wrap">
+                    <form accept-charset="UTF-8" action="https://cloud.idevops.net/registrations" class="form-inline signup" id="new_user" method="post">
+                      <input id="user_signup_form_name" name="user[signup_form_name]" type="hidden" value="Homepage">
+
+                      <input class="focus" id="user_email" name="user[email]" placeholder="Email Address" size="30" type="text" value="">
+                      <input id="user_password" name="user[password]" placeholder="Password" size="30" type="password">
+
+                      <input class="" name="commit" type="submit" value="Create Account">
+                      <div class="clearfix"></div>
+                    </form>
+                  </div>
+                </div>
+--!>
+
+
+              </section>
+
+              <section id="homepage-callouts" class="homepage-section">
+                <div class="wrapper-full">
+                  <h2><span>
+			<li>* Improve Customer Insight</a></li>
+			<li>* Innovate Business Models</a></li>
+			<li>* Manage Risk and Finance</a></li>
+		  </span></h2>
+
+

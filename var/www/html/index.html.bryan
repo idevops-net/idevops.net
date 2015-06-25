@@ -10,18 +10,18 @@
 
         <title>Automate Everything | idevops.net</title>
 
-        <meta name="keywords" content="Analytics, Big Data, Data, Platform, Automation, Operation, DevOps, Agile">
+        <meta name="keywords" content="DevOps, IaaS, PaaS, XaaS, Cloud, Automation, Development, Testing, Operation, Agile">
         <meta name="description" content="">
-        <meta name="twitter:card" content="Harness the Power of Data @esse.io">
-        <meta name="twitter:site" content="esse.io">
-        <meta name="twitter:title" content="esse.io">
+        <meta name="twitter:card" content="Automate everything @idevops.net">
+        <meta name="twitter:site" content="iDevOps">
+        <meta name="twitter:title" content="DevOps">
         <meta name="twitter:description" content="">
 
-        <meta name="og:title" content="An Analytics Community">
+        <meta name="og:title" content="DevOps Community">
         <meta name="og:description" content="">
         <meta name="og:site_name" content="iDevOps">
 
-        <meta property="og:image" content='/images/devops.png'>
+        <meta property="og:image" content='images/devops.png'>
 
 
         <script src="/scripts/bugsnag-2.min.js" data-apikey="5521483091d79def55edefe4abaec88a"></script>
@@ -72,7 +72,7 @@
 
             <header>
               <div class="wrapper-full">
-                <a class="logo" href="/"><img src="/images/devops.png" width="195px" height="31px"></a>
+                <a class="logo" href="/"><img src="images/devops.png" width="195px" height="31px"></a>
                 <a id="hiring" href="/company/careers/">We're Hiring!</a>
                 <a class="m-pikabu-nav-toggle icon-navicon" data-role="left">
                   <span></span>
@@ -102,10 +102,9 @@
 
               <section class="homepage-header">
                 <div class="wrapper-full">
-                  <h1>Harness the Power of Data @esse.io</h1>
+                  <h1>Automate Everything @idevops.net</h1>
 
                   <h3>Makes your life easier. <a href="/features/technology/">Learn More</a>.</h3>
-<!--
                   <div class="inline-form-wrap">
                     <form accept-charset="UTF-8" action="https://cloud.idevops.net/registrations" class="form-inline signup" id="new_user" method="post">
                       <input id="user_signup_form_name" name="user[signup_form_name]" type="hidden" value="Homepage">
@@ -118,14 +117,15 @@
                     </form>
                   </div>
                 </div>
---!>
+
+
 
               </section>
 
               <section id="homepage-callouts" class="homepage-section">
                 <div class="wrapper-full">
 
-                  <h2><span> Improve Customer Insight | Innovate Business Models | Manage Risk and Finance</span></h2>
+                  <h2><span>DevOps is the practice of operations and development engineers participating together in the entire service lifecycle, from design through the development process to production support.</span></h2>
 
 
                   <div class="pure-g">
@@ -179,7 +179,7 @@
                   </div>
                 </div>
               </section>
-<!--
+
               <section id="homepage-features" class="homepage-section">
                 <div class="wrapper-full">
                   <h2>A control panel experience made simple.</h2>
@@ -190,7 +190,7 @@
                     </div>
                     <p class="url">https://cloud.idevops.net/droplets</p>
 
-                    <video height="100%" class="feature-video" preload="none" poster="/images/cover_create-e6646e64.jpg">
+                    <video height="100%" class="feature-video" preload="none" poster="images/cover_create-e6646e64.jpg">
                       <source src="/video/create-a27a9cbd.mp4" type="video/mp4">
                         <source src="/video/create-e68d7b3c.webm" type="video/webm">
                           Your browser does not support the video tag.
@@ -249,7 +249,7 @@
                           <div class="swiper-wrapper">
                             <div class="swiper-slide">
                               <div class="slide-wrap">
-                                <img src="/images/john_resig-d2a6de9f.jpg">
+                                <img src="images/john_resig-d2a6de9f.jpg">
                                 <p>"The speed and simplicity of deploying my projects to DigitalOcean has greatly increased my productivity."</p>
                                 <h4>John Resig</h4>
                                 <span>Creator of JQuery</span>
@@ -257,7 +257,7 @@
                             </div>
                             <div class="swiper-slide">
                               <div class="slide-wrap">
-                                <img src="/images/xavier_noria-f45931ec.jpg">
+                                <img src="images/xavier_noria-f45931ec.jpg">
                                 <p>"Migrated the Rails API and my humbled homepage to your hosting, fantastic user experience well done guys."</p>
                                 <h4>Xavier Noria</h4>
                                 <span>Rails Core Team Member</span>
@@ -265,7 +265,7 @@
                             </div>
                             <div class="swiper-slide">
                               <div class="slide-wrap">
-                                <img src="/images/salvatore_sanfilippo-84e0aa94.jpg">
+                                <img src="images/salvatore_sanfilippo-84e0aa94.jpg">
                                 <p>"Guess what... you provide service for<br>1/4 of the cost, and you win DigitalOcean."</p>
                                 <h4>Salvatore Sanfilippo</h4>
                                 <span>Creator of Redis</span>
@@ -273,7 +273,7 @@
                             </div>
                             <div class="swiper-slide">
                               <div class="slide-wrap">
-                                <img src="/images/ryan_bates-b028c962.jpg">
+                                <img src="images/ryan_bates-b028c962.jpg">
                                 <p>"DigitalOcean is offering an amazing service at a great price."</p>
                                 <h4>Ryan Bates</h4>
                                 <span>Creator of Railscasts</span>
@@ -281,7 +281,7 @@
                             </div>
                             <div class="swiper-slide">
                               <div class="slide-wrap">
-                                <img src="/images/jeff_atwood-2f189304.jpg">
+                                <img src="images/jeff_atwood-2f189304.jpg">
                                 <p>"We discovered DigitalOcean through our own community at Discourse; it's the best value and simplest setup for cloud servers we've found."</p>
                                 <h4>Jeff Atwood</h4>
                                 <span>Co-Founder of Stack Overflow</span>
@@ -300,11 +300,11 @@
                     <div class="wrapper-full">
                       <h2>Read our customer success stories.</h2>
                       <ul>
-                        <li><a href="/customers/taskrabbit"><img src="/images/customers/taskrabbit-79df54b1.png"></a></li>
-                        <li><a href="/customers/jquery-foundation"><img src="/images/customers/jquery-foundation-2bc43c12.png"></a></li>
-                        <li><a href="/customers/compose"><img src="/images/customers/compose-f84be912.svg"></a></li>
-                        <li><a href="/customers/influxdb"><img src="/images/customers/influxdb-55252c1f.png"></a></li>
-                        <li><a href="/customers/pertino"><img src="/images/customers/pertino-eaf7464a.png"></a></li>
+                        <li><a href="/customers/taskrabbit"><img src="images/customers/taskrabbit-79df54b1.png"></a></li>
+                        <li><a href="/customers/jquery-foundation"><img src="images/customers/jquery-foundation-2bc43c12.png"></a></li>
+                        <li><a href="/customers/compose"><img src="images/customers/compose-f84be912.svg"></a></li>
+                        <li><a href="/customers/influxdb"><img src="images/customers/influxdb-55252c1f.png"></a></li>
+                        <li><a href="/customers/pertino"><img src="images/customers/pertino-eaf7464a.png"></a></li>
                       </ul>
                     </div>
                   </section>
@@ -384,7 +384,7 @@
                         <li class="instagram"><a class="external" href="http://instagram.com/idevops">Instagram</a></li>
                         <li class="meetup"><a class="external" href="http://www.meetup.com/idevops/">Meetup</a></li>
                         <li class="youtube"><a class="external" href="https://www.youtube.com/user/idevops">Youtube</a></li>
-                        <li class="blog"><img src="/images/wechart_qrcode.jpg" hint="Wechat"></li>
+                        <li class="blog"><img src="images/wechart_qrcode.jpg" hint="Wechat"></li>
                       </ul>
                     </div>
                   </div>
@@ -397,4 +397,3 @@
 
             </body>
             </html>
---!>
